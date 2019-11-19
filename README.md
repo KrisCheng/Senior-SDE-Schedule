@@ -32,7 +32,7 @@ TBD
 
 ### Personal Blogs
 
-TBD
+* [秋招反思](./blogs/秋招反思.md)
 
 ### Useful Links
 
@@ -44,4 +44,4 @@ TBD
 
 ### ChangeLog
 
-* 20191119, init and set the Motivation.
+* 2019.11.19, init and set the Motivation.
