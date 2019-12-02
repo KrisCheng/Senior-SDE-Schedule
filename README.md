@@ -30,13 +30,14 @@ TBD
 
 TBD
 
-### Personal Blogs
+### Blogs
 
 * [秋招反思](./blogs/秋招反思.md)
 
 ### Useful Links
 
-TBD
+* [500-interview-question-for-programmers](https://github.com/KrisCheng/500-interview-question-for-programmers) (my personal interview guide)
+* 
 
 ### Schedule
 
