@@ -6,6 +6,15 @@ I will finish my postgraduate and join [Huawei](https://www.huawei.com/cn/) as a
 
 So, it's important for me to make choice right now. In my first stage of career, I want to use about 3 years to testify whether I am suitable for a purely software engineer career path (usually with this ascent curve, Junior SDE -> Senior SDE -> Development Manager -> Technical Director -> CTO). If so, I think it's enough to become a Senior SDE in this period. If not, I think I have to make other plans to become more successfuly in my career. This repository is designed to record this process.
 
+```java
+dasd
+System.out.println("hello");
+```
+
+
+
+
+
 > Execution time: **2019.12 ~ 2023.01**
 
 This repository mainly including those parts as follow:
@@ -28,7 +37,7 @@ This repository mainly including those parts as follow:
 
 1. 扎实的计算机基础，熟练包括 操作系统、数据库、计算机网络、数据结构和算法等 计算机必修课；
 2. 精通一门编程语言（目前选定 Java ），包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
-3. 基于 2，能个人进行独立开发并有相应项目成果积累，并熟练掌握对应主流框架使用（深入到源码级别），如：Spring、SpringBoot、Zookeeper、Kafka 等；
+3. 基于 2，能个人进行独立开发并有相应项目成果积累，并熟练掌握对应主流框架使用（深入到源码级别），如：Spring、SpringBoot、Zookeeper、Kafka 等，同时具备一定造轮子的能力；
 4. 熟练掌握各类设计模式，同时具备一定的架构能力（此点待量化）；
 5. 熟练掌握 MySQL 数据库和 Redis 等 NoSQL 存储，具备相当的数据库设计能力和SQL优化经验；
 6. 熟练掌握 Linux 命令行，具备一定的运维能力；
@@ -42,8 +51,8 @@ This repository mainly including those parts as follow:
 
 ### Blogs
 
-* [秋招反思](./blogs/秋招反思.md) (20191202)
 * [学习编程的方法](./blogs/学习编程的方法.md) (20191203)
+* [秋招反思](./blogs/秋招反思.md) (20191202)
 
 ### Useful Links
 
