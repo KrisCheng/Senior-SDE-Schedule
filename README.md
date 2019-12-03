@@ -6,15 +6,6 @@ I will finish my postgraduate and join [Huawei](https://www.huawei.com/cn/) as a
 
 So, it's important for me to make choice right now. In my first stage of career, I want to use about 3 years to testify whether I am suitable for a purely software engineer career path (usually with this ascent curve, Junior SDE -> Senior SDE -> Development Manager -> Technical Director -> CTO). If so, I think it's enough to become a Senior SDE in this period. If not, I think I have to make other plans to become more successfuly in my career. This repository is designed to record this process.
 
-```java
-dasd
-System.out.println("hello");
-```
-
-
-
-
-
 > Execution time: **2019.12 ~ 2023.01**
 
 This repository mainly including those parts as follow:
