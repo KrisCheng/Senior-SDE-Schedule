@@ -11,14 +11,11 @@ So, it's important for me to make choice right now. In my first stage of career,
 This repository mainly including those parts as follow:
 
 * Mandatory Indices -- my mandatory (hard, always quantitative) indices of this plan
-
 * Flexible Indices -- my flexible (soft) indices of this plan 
-
-* Personal Blogs -- my personal tech blogs which related to this plan
-
-* Useful Resources -- those resources which contribute to this plan
-
 * Schedule -- my plan time table, I prefer quarterly indices
+* Output -- corresponding output with schedule
+* Blogs -- my personal tech blogs which related to this plan
+* Useful Links -- those resources which contribute to this plan
 
 > Have fun, be careful!
 
@@ -40,6 +37,14 @@ This repository mainly including those parts as follow:
 3. 优秀的英文文档阅读能力，中英文文档阅读和理解速度不再有效率上的明显差别；
 4. 优秀的学习/知识整合能力，能在相对较短时间内上手最新的工具和框架，同时具备一定的技术选型能力；
 
+### Schedule
+
+* TBD
+
+### Output
+
+* TBD
+
 ### Blogs
 
 * [学习编程的方法](./blogs/学习编程的方法.md) (20191203)
@@ -49,10 +54,6 @@ This repository mainly including those parts as follow:
 
 * [500-interview-question-for-programmers](https://github.com/KrisCheng/500-interview-question-for-programmers) (my personal interview guide)
 * [金旭亮：一个普通IT人的十年回顾（上）的故事](http://www.fantiz5.com/gs/lizhi/mem/memooswsn.html) (recommended story for programmers)
-
-### Schedule
-
-* TBD
 
 ### ChangeLog
 
