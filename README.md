@@ -12,8 +12,7 @@ This repository mainly including those parts as follow:
 
 * Mandatory Indices -- my mandatory (hard, always quantitative) indices of this plan
 * Flexible Indices -- my flexible (soft) indices of this plan 
-* Schedule -- my plan time table, I prefer quarterly indices
-* Output -- corresponding output with schedule
+* Milestones -- milestones related to accomplish those indices above
 * Blogs -- my personal tech blogs which related to this plan
 * Useful Links -- those resources which contribute to this plan
 
@@ -23,27 +22,23 @@ This repository mainly including those parts as follow:
 
 > 为无歧义，使用中文
 
-1. 扎实的计算机基础，熟练包括 操作系统、数据库、计算机网络、数据结构和算法等 计算机必修课；
-2. 精通一门编程语言（目前选定 Java ），包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
-3. 基于 2，能个人进行独立开发并有相应项目成果积累，并熟练掌握对应主流框架使用（深入到源码级别），如：Spring、SpringBoot、Zookeeper、Kafka 等，同时具备一定造轮子的能力；
-4. 熟练掌握各类设计模式，同时具备一定的架构能力（此点待量化）；
+1. 扎实的计算机基础，熟练包括 操作系统、数据库、计算机网络、数据结构和算法等 计算机专业必修课；
+2. 精通一门编程语言（目前选定Java），包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
+3. 基于 2，能个人进行独业务开发并有相应项目成果积累，并可以快速把握对应场景后适用的框架（深入到源码级别，会拆轮子），同时具备相对应问题的造轮子能力（此点待工作后具体化）；
+4. 熟练掌握各类设计模式和精益开发思想，同时具备一定的架构能力（此点待工作后具体化）；
 5. 熟练掌握 MySQL 数据库和 Redis 等 NoSQL 存储，具备相当的数据库设计能力和SQL优化经验；
-6. 熟练掌握 Linux 命令行，具备一定的运维能力；
+6. 熟练掌握 Linux 命令行，具备一定的部署和运维能力；
 
 ### Flexible Indices
 
-1. 极佳的沟通能力，“见人说人话，见鬼说鬼话”，能够即刻串联资源并从他人处获取信息；
-2. 一流的Presentation能力，做到可以和所能接触到的任何级别的人做投其所好的相应汇报；
-3. 优秀的英文文档阅读能力，中英文文档阅读和理解速度不再有效率上的明显差别；
-4. 优秀的学习/知识整合能力，能在相对较短时间内上手最新的工具和框架，同时具备一定的技术选型能力；
+* 沟通能力，“见人说人话，见鬼说鬼话”，能够即刻串联资源并从他人处获取需要的信息；
+* Presentation能力，做到可以和所能接触到的任何级别的人做投其所好的相应汇报；
+* 英文文档阅读能力，中英文文档阅读和理解速度不再有效率上的明显差距；
+* 学习/知识整合能力，能在相对较短时间内上手最新的工具和框架，同时具备一定的技术选型能力；
 
-### Schedule
+### Milestones
 
-* TBD
-
-### Output
-
-* TBD
+1. 2019.12.09~2019.01.10（预计），回家过年前系统过一遍 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，最好产出一篇刷题笔记；
 
 ### Blogs
 
@@ -54,6 +49,8 @@ This repository mainly including those parts as follow:
 
 * [500-interview-question-for-programmers](https://github.com/KrisCheng/500-interview-question-for-programmers) (my personal interview guide)
 * [金旭亮：一个普通IT人的十年回顾（上）的故事](http://www.fantiz5.com/gs/lizhi/mem/memooswsn.html) (recommended story for programmers)
+* [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
+* 
 
 ### ChangeLog
 
