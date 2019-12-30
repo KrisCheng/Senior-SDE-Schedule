@@ -38,15 +38,17 @@ This repository mainly including those parts as follow:
 
 ### Milestones
 
-1. 2019.12~2019.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人编程题刷题总结 [科学刷题指北](./blogs/科学刷题指北.md)；①
-2. 
+1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人编程题刷题总结 [科学刷题指北](./blogs/科学刷题指北.md)；①
+2. 2019.12~2020.01，学习[代码整洁之道](https://book.douban.com/subject/4199741/)；④
+3. 
 
 ### Blogs
 
 * [科学刷题指北](./blogs/科学刷题指北.md)（Updating）
-
 * [学习编程的方法](./blogs/学习编程的方法.md) (20191203)
 * [秋招反思](./blogs/秋招反思.md) (20191202)
+* [现状分析 -- 2019下半年](./blogs/现状分析-2019下半年.md) (20190722)
+* [现状分析 -- 2019上半年](./blogs/现状分析-2019上半年.md) (20190214)
 
 ### Useful Links
 
