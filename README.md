@@ -45,6 +45,7 @@ This repository mainly including those parts as follow:
 ### Blogs
 
 * [科学刷题指北](./blogs/科学刷题指北.md)（Updating）
+* [2019年终总结](./blogs/2019年终总结.md) (20200102)
 * [学习编程的方法](./blogs/学习编程的方法.md) (20191203)
 * [秋招反思](./blogs/秋招反思.md) (20191202)
 * [现状分析 -- 2019下半年](./blogs/现状分析-2019下半年.md) (20190722)
