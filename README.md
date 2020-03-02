@@ -6,7 +6,7 @@ I will finish my postgraduate and join [Huawei](https://www.huawei.com/cn/) as a
 
 So, it's important for me to make choice right now. In my first stage of career, I want to use about 3 years to testify whether I am suitable for a purely software engineer career path (usually with this ascent curve, Junior SDE -> Senior SDE -> Development Manager -> Technical Director -> CTO). If so, I think it's enough to become a Senior SDE in this period. If not, I think I have to make other plans to become more successfuly in my career. This repository is designed to record this process.
 
-> Execution time: **2019.12 ~ 2023.01**
+> Execution time : **2019.12 ~ 2023.01**
 
 This repository mainly including those parts as follow:
 
@@ -39,8 +39,9 @@ This repository mainly including those parts as follow:
 ### Milestones
 
 1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人编程题刷题总结 [科学刷题指北](./blogs/科学刷题指北.md)；①
-2. 2019.12~2020.01，学习[代码整洁之道](https://book.douban.com/subject/4199741/)；④
-3. 
+2. 2019.12~2020.02，学习[《 代码整洁之道 》](https://book.douban.com/subject/4199741/)；④
+3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏；④
+4. 
 
 ### Blogs
 
@@ -56,6 +57,7 @@ This repository mainly including those parts as follow:
 * [500-interview-question-for-programmers](https://github.com/KrisCheng/500-interview-question-for-programmers) (my personal interview guide)
 * [金旭亮：一个普通IT人的十年回顾（上）的故事](http://www.fantiz5.com/gs/lizhi/mem/memooswsn.html) (recommended story for programmers)
 * [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
+* [程序员进阶攻略](https://time.geekbang.org/column/intro/111)
 * 
 
 ### ChangeLog
