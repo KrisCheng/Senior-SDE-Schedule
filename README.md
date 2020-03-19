@@ -38,14 +38,18 @@ This repository mainly including those parts as follow:
 
 ### Milestones
 
-1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人编程题刷题总结 [科学刷题指北](./blogs/科学刷题指北.md)；①
+1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人编程题刷题总结 [科学刷题指北](./blogs/科学刷题指北.md) ；①
 2. 2019.12~2020.02，学习[《 代码整洁之道 》](https://book.douban.com/subject/4199741/)；④
-3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏；④
-4. 
+3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏，基于此完成 [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md)；④
+4. 2020.04~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；①
+5. 2020.04~2020.05，学习  [码出高效：Java开发手册](https://book.douban.com/subject/30333948/) ；①
+6. 
 
 ### Blogs
 
 * [科学刷题指北](./blogs/科学刷题指北.md)（Updating）
+* [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md) (20200318)
+* [毕业小结](./blogs/毕业小结.md) (20200315)
 * [2019年终总结](./blogs/2019年终总结.md) (20200102)
 * [学习编程的方法](./blogs/学习编程的方法.md) (20191203)
 * [秋招反思](./blogs/秋招反思.md) (20191202)
