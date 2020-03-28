@@ -41,8 +41,8 @@ This repository mainly including those parts as follow:
 1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人编程题刷题总结 [科学刷题指北](./blogs/科学刷题指北.md) ；①
 2. 2019.12~2020.02，学习[《 代码整洁之道 》](https://book.douban.com/subject/4199741/)；④
 3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏，基于此完成 [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md)；④
-4. 2020.04~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；①
-5. 2020.04~2020.05，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；①
+4. 2020.03~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；①
+5. 2020.03~2020.05，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；①
 6. 
 
 ### Blogs
@@ -63,8 +63,3 @@ This repository mainly including those parts as follow:
 * [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
 * [程序员进阶攻略](https://time.geekbang.org/column/intro/111)
 * 
-
-### ChangeLog
-
-* 2019.11.19, init and set the Motivation.
-* 2019.12.03, set Mandatory Indices and Flexible Indices.
