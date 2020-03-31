@@ -2,7 +2,7 @@
 
 ### Motivation
 
-I will finish my postgraduate and join [Huawei](https://www.huawei.com/cn/) as a software develpoment engineer on 2020, Frankly speaking, I am not satisfied (even very upset) with my personal achievements over the past 6.5 years in Tongji University. The most important problem is that I didnot explore one particular topic deeply. I have done Product Manager, Frontend, Backend, Algorithm, Data Handling etc. I think this is a very good plan for thoes people who are very gifted, but unfortunately I am not one of them obviously (if so, I think I will get much more achievements), even though I am very interested about all of them.
+I will finish my postgraduate and join [Huawei](https://www.huawei.com/cn/) as a software develpoment engineer on 2020, Frankly speaking, I am not satisfied (even very upset) with my personal achievements over the past 6.5 years in Tongji University. **The most important problem is that I did not explore one particular topic deeply**. I have tried Product Manager, Frontend, Backend, Algorithm, Data Handling etc. I think this is a very good plan for thoes people who are very gifted, but unfortunately I am not one of them obviously (if so, I think I will get much more achievements), even though I am very interested about all of them.
 
 So, it's important for me to make choice right now. In my first stage of career, I want to use about 3 years to testify whether I am suitable for a purely software engineer career path (usually with this ascent curve, Junior SDE -> Senior SDE -> Development Manager -> Technical Director -> CTO). If so, I think it's enough to become a Senior SDE in this period. If not, I think I have to make other plans to become more successfuly in my career. This repository is designed to record this process.
 
@@ -48,6 +48,7 @@ This repository mainly including those parts as follow:
 ### Blogs
 
 * [科学刷题指北](./blogs/科学刷题指北.md)（Updating）
+* 
 * [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md) (20200318)
 * [毕业小结](./blogs/毕业小结.md) (20200315)
 * [2019年终总结](./blogs/2019年终总结.md) (20200102)
