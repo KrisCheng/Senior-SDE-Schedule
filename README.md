@@ -23,7 +23,7 @@ This repository mainly including those parts as follow:
 > 为无歧义，使用中文
 
 1. 扎实的计算机基础，熟练包括 操作系统、数据库、计算机网络、数据结构和算法等 计算机专业必修课；
-2. 精通一门编程语言（目前选定Java），包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
+2. 精通一门编程语言（目前选定 Java），包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
 3. 基于 2，能个人进行独业务开发并有相应项目成果积累，并可以快速把握对应场景后适用的框架（深入到源码级别，会拆轮子），同时具备相对应问题的造轮子能力（待工作结合具体项目量化 *`TODO`* ）；
 4. 熟练掌握各类设计模式和精益开发思想，同时具备一定的架构能力（待工作结合具体项目量化 *`TODO`* ）；
 5. 熟练掌握 MySQL 数据库和 Redis 等 NoSQL 存储，具备相当的数据库设计能力和SQL优化经验（（待工作结合具体项目量化 *`TODO`* ）；
@@ -61,6 +61,7 @@ This repository mainly including those parts as follow:
 * [500-interview-question-for-programmers](https://github.com/KrisCheng/500-interview-question-for-programmers) (my personal interview guide)
 * [金旭亮：一个普通IT人的十年回顾（上）的故事](http://www.fantiz5.com/gs/lizhi/mem/memooswsn.html) (recommended story for programmers)
 * [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
-* [程序员进阶攻略](https://time.geekbang.org/column/intro/111)
+* [程序员进阶攻略](https://time.geekbang.org/column/intro/111) （极客时间课程，前面的文章还不错，后边的较水）
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531)
+* [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847) 
 * 
