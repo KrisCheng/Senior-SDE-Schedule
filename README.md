@@ -63,5 +63,4 @@ This repository mainly including those parts as follow:
 * [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
 * [程序员进阶攻略](https://time.geekbang.org/column/intro/111) （极客时间课程，前面的文章还不错，后边的较水）
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531)
-* [搞 Java 的年薪 40W 是什么水平？](https://www.zhihu.com/question/31437847) 
 * 
