@@ -42,8 +42,8 @@ This repository mainly including those parts as follow:
 2. 2019.12~2020.02，学习[《 代码整洁之道 》](https://book.douban.com/subject/4199741/)；④
 3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏，基于此完成 [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md)；④
 4. 2020.03~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；①
-5. 2020.03~2020.05，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；①
-6. 
+5. 2020.03~2020.04，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；①
+6. 2020.05~2020.06，熟悉 Android 开发，快速上手kit组件开发；②
 
 ### Blogs
 
@@ -59,8 +59,17 @@ This repository mainly including those parts as follow:
 ### Useful Links
 
 * [500-interview-question-for-programmers](https://github.com/KrisCheng/500-interview-question-for-programmers) (my personal interview guide)
+
 * [金旭亮：一个普通IT人的十年回顾（上）的故事](http://www.fantiz5.com/gs/lizhi/mem/memooswsn.html) (recommended story for all programmers)
+
 * [什么才算是真正的编程能力？](https://www.zhihu.com/question/31034164)
+
+* [左耳听风](https://time.geekbang.org/column/intro/48) （陈皓专栏，包括编程范式，进阶学习攻略（资源库），面试和分布式等主题）
+
 * [程序员进阶攻略](https://time.geekbang.org/column/intro/111) （极客时间专栏，前面的文章还不错，后边的较水）
-* [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531)
+
+* [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531) 
+
 * 
+
+  
