@@ -70,6 +70,6 @@ This repository mainly including those parts as follow:
 
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531) 
 
-* 
+* This is a master test 
 
   
