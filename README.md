@@ -24,7 +24,7 @@ This repository mainly including those parts as follow:
 
 1. 数据结构和算法基础，LeetCode刷题 200+，熟悉常见的设计模式并有实际项目开发经验积累；
 2. 精通 Java，包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
-3. 熟悉Andorid 启动过程，SDK，Framework，具备独立开发Android APP能力；
+3. 熟悉Andorid 启动过程，熟练掌握SDK，Framework开发及常用开源框架，具备独立开发Android APP能力；
 4. 熟悉各种网络协议并具有实际开发经验积累。
 
 ### Flexible Indices
@@ -45,12 +45,12 @@ This repository mainly including those parts as follow:
 
 --- 分割线（入职后重新调整）
 
-1. 
+
 
 ### Blogs
 
 * [科学刷题指北](./blogs/科学刷题指北.md)（Updating）
-* 
+* [现状分析 -- 2020下半年](./blogs/现状分析-2020下半年.md) (20200713)
 * [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md) (20200318)
 * [毕业小结](./blogs/毕业小结.md) (20200315)
 * [2019年终总结](./blogs/2019年终总结.md) (20200102)
