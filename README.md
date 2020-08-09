@@ -45,11 +45,12 @@ This repository mainly including those parts as follow:
 
 --- 分割线（入职后重新调整）
 
-
+1. 2020.07~2020.08，算法刷至200+，补充 [500Q](https://github.com/KrisCheng/500-interview-question-for-programmers)，通过公司考试；
+2. 2020.07~2020.09，刷完[《Effective Java》](https://book.douban.com/subject/27047716/)；
+3. 
 
 ### Blogs
 
-* [科学刷题指北](./blogs/科学刷题指北.md)（Updating）
 * [现状分析 -- 2020下半年](./blogs/现状分析-2020下半年.md) (20200713)
 * [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md) (20200318)
 * [毕业小结](./blogs/毕业小结.md) (20200315)
