@@ -41,13 +41,13 @@ This repository mainly including those parts as follow:
 3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏，基于此完成 [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md)；④
 4. 2020.03~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；①
 5. 2020.03~2020.04，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；①
-6. 2020.05~2020.06，熟悉 Android 开发，快速上手kit组件开发；②
+6. 2020.05~2020.06，熟悉 Android 开发，快速上手kitframework开发；②
 
 --- 分割线（入职后重新调整）
 
-1. 2020.07~2020.08，算法刷至200+，补充 [500Q](https://github.com/KrisCheng/500-interview-question-for-programmers)，通过公司考试；
-2. ~~2020.07~2020.09，刷完[《Effective Java》](https://book.douban.com/subject/27047716/)；~~ （暂时搁置）
-3. 
+1. 2020.07~2020.09，算法刷至200+，补充 [500Q](https://github.com/KrisCheng/500-interview-question-for-programmers)，通过公司相关考试；
+2. ~~2020.07~2020.09，刷完[《Effective Java》](https://book.douban.com/subject/27047716/)~~ （暂时搁置）；
+3. 2020.08~2020.10，按时完成开发/测试任务，利用kitframework熟悉华为工作流程和相应专业技能累积，完成转正答辩；
 
 ### Blogs
 
