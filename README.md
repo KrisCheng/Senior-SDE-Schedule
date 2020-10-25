@@ -24,7 +24,7 @@ This repository mainly including those parts as follow:
 
 1. 数据结构和算法基础，LeetCode刷题 200+，熟悉常见的设计模式并有实际项目开发经验积累；
 2. 精通 Java，包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；
-3. 熟悉Andorid 启动过程，熟练掌握SDK，Framework开发及常用开源框架，具备独立开发Android APP能力；
+3. ~~熟悉Andorid 启动过程，熟练掌握SDK，Framework开发及常用开源框架，具备独立开发Android APP能力；~~（优先级放低）
 4. 熟悉各种网络协议并具有实际开发经验积累。
 
 ### Flexible Indices
@@ -48,6 +48,7 @@ This repository mainly including those parts as follow:
 1. 2020.07~2020.09，算法刷至200+，补充 [500Q](https://github.com/KrisCheng/500-interview-question-for-programmers)，通过公司相关考试；
 2. ~~2020.07~2020.09，刷完[《Effective Java》](https://book.douban.com/subject/27047716/)~~ （暂时搁置）；
 3. 2020.08~2020.10，按时完成开发/测试任务，利用kitframework熟悉华为工作流程和相应专业技能累积，完成转正答辩；
+4. 2020.10~2021.12.31，坚持LC每日一题打卡 + 通过 可信专业级 所有考试，拿到专业级证书； 
 
 ### Blogs
 
@@ -74,6 +75,8 @@ This repository mainly including those parts as follow:
 * [程序员进阶攻略](https://time.geekbang.org/column/intro/111) （极客时间专栏，前面的文章还不错，后边的较水）
 
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531) 
+
+* 
 
   
 
