@@ -23,10 +23,12 @@ This repository mainly including those parts as follow:
 > 为无歧义，使用中文
 
 * 数据结构和算法基础，LeetCode刷题 200+，熟悉常见的设计模式并有实际项目开发经验积累；
+* 熟练掌握Python，包括语言特性，高级应用等；
+* 具备一定的前端开发能力（基于 Vue）；
+* 具备全栈开发能力（非调包 or CRUD boy），明白开发过程中的每一个环节是如何串联的；
 * ~~精通 Java，包括语言本身特性、集合框架、多线程、IO操作、JVM原理等；~~ （由于换工作暂时不再使用Java技术栈，放低）
 * ~~熟悉Andorid 启动过程，熟练掌握SDK，Framework开发及常用开源框架，具备独立开发Android APP能力；~~（优先级放低）
 * ~~熟悉各种网络协议并具有实际开发经验积累。~~ （与当前工作内容不符，暂时放低）
-* 
 
 ### Flexible Indices
 
@@ -53,12 +55,13 @@ This repository mainly including those parts as follow:
 
 --- 分割线（跳槽后重新规划）
 
-1. 
+1. 见 [现状分析 -- 2021上半年](./blogs/现状分析-2021上半年.md) 
 
 
 
 ### Blogs
 
+* [现状分析 -- 2021上半年](./blogs/现状分析-2021上半年.md) (20210330)
 * [Must Reading Material for Programmer](./blogs/程序员必读材料.md) (20200816)
 * [现状分析 -- 2020下半年](./blogs/现状分析-2020下半年.md) (20200713)
 * [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md) (20200318)
@@ -83,7 +86,6 @@ This repository mainly including those parts as follow:
 
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531) 
 
-* 
-
   
+
 
