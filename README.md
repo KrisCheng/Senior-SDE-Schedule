@@ -55,12 +55,13 @@ This repository mainly including those parts as follow:
 
 --- 分割线（跳槽后重新规划）
 
-1. 见 [现状分析 -- 2021上半年](./blogs/现状分析-2021上半年.md) 
+1. 见 Blogs
 
 
 
 ### Blogs
 
+* [现状分析 -- 2021下半年](./blogs/现状分析-2021下半年.md) (202107013)
 * [现状分析 -- 2021上半年](./blogs/现状分析-2021上半年.md) (20210330)
 * [Must Reading Material for Programmer](./blogs/程序员必读材料.md) (20200816)
 * [现状分析 -- 2020下半年](./blogs/现状分析-2020下半年.md) (20200713)
@@ -87,5 +88,4 @@ This repository mainly including those parts as follow:
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531) 
 
   
-
 
