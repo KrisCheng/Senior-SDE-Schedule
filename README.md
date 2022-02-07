@@ -1,5 +1,7 @@
 # Senior-SDE-Schedule
 
+will not update. -- 20220207
+
 ### Motivation
 
 I will finish my postgraduate and join [Huawei](https://www.huawei.com/cn/) as a software develpoment engineer on 2020, Frankly speaking, I am not satisfied (even very upset) with my personal achievements over the past 6.5 years in Tongji University. **The most important problem is that I did not explore one particular topic deeply**. I have tried Product Manager, Frontend, Backend, Algorithm, Data Handling etc. I think this is a very good plan for thoes people who are very gifted, but unfortunately I am not one of them obviously (if so, I think I will get much more achievements), even though I am very interested about all of them.
@@ -39,12 +41,12 @@ This repository mainly including those parts as follow:
 
 ### Milestones
 
-1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人刷题总结 [科学刷题指北](./blogs/科学刷题指北.md) ；①
-2. 2019.12~2020.02，学习[《 代码整洁之道 》](https://book.douban.com/subject/4199741/)；④
-3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏，基于此完成 [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md)；④
-4. 2020.03~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；①
-5. 2020.03~2020.04，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；①
-6. 2020.05~2020.06，熟悉 Android 开发，快速上手kitframework开发；②
+1. 2019.12~2020.01，结合 [极客时间 数据结构与算法之美](https://time.geekbang.org/column/intro/126)，完成个人刷题总结 [科学刷题指北](./blogs/科学刷题指北.md) ；
+2. 2019.12~2020.02，学习[《 代码整洁之道 》](https://book.douban.com/subject/4199741/)；
+3. 2020.02~2020.03，学习 [《程序员进阶攻略》](https://time.geekbang.org/column/intro/111) 专栏，基于此完成 [现状分析 -- 2020入职前](./blogs/现状分析-2020入职前.md)；
+4. 2020.03~2020.05，完整重刷 [科学刷题指北](./blogs/科学刷题指北.md) ；
+5. 2020.03~2020.04，学习  [《码出高效：Java开发手册》](https://book.douban.com/subject/30333948/) ；
+6. 2020.05~2020.06，熟悉 Android 开发，快速上手kitframework开发；
 
 --- 分割线（入职后重新调整）
 
@@ -86,6 +88,4 @@ This repository mainly including those parts as follow:
 * [程序员进阶攻略](https://time.geekbang.org/column/intro/111) （极客时间专栏，前面的文章还不错，后边的较水）
 
 * [你遇到过哪些质量很高的 Java 面试？](https://www.zhihu.com/question/60949531) 
-
-  
 
